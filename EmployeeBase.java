@@ -5,10 +5,10 @@ import java.util.Locale;
 
 public abstract class EmployeeBase extends MainActivity implements Parcelable
 {
-    //ch17 files  try catch
+    //needs try catch
     //parceable need done before abstract
     //create new orientaton landscape
-    //create he;p text string add to string  manager drop in to text to acchive norlam view  shift enter
+    //create help text string add to string  manager drop in to text to acchive normal view
 
     private static int ID=0;
     private final int pfvEmpID;
